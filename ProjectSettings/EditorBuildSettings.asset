@@ -4,5 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/buttonclick.unity
+    guid: bd33ac3c990371a44aa1a9c67077867f
   m_configObjects: {}
